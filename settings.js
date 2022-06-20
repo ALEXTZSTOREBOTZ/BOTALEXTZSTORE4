@@ -12,7 +12,7 @@
   }
 
   // Edit Sesuai Kemauanmu
-  global.autoReadGc = true // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
+  global.autoReadGc = false // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
   global.autoReadAll = false // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
   global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
@@ -24,11 +24,11 @@
 
   // Other
   global.ownername = 'Chika Bot' // Ganti Jadi Namamu
-  global.owner = ['6283167581315','62895330437426'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6283167581315' // Owner Utama Istilahnya
-  global.botname = 'Chika bot' // Ganti Jadi Nama Botmu
-  global.packname = 'Chika bot' // Sticker Weem
-  global.author = 'Chika bot' // Sticker Weem
+  global.owner = ['6281529609283','6281529609283'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6281529609283' // Owner Utama Istilahnya
+  global.botname = 'FADLI bot' // Ganti Jadi Nama Botmu
+  global.packname = 'FADLI bot' // Sticker Weem
+  global.author = 'FADLI bot' // Sticker Weem
   global.webme = 'https://vt.tiktok.com/ZSdm9GEpm/' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/DllEvzkNKQ4714qdwmT9Ds' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
